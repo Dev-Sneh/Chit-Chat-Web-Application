@@ -22,7 +22,7 @@ import io from "socket.io-client";
 import Lottie from "react-lottie";
 import animationData from "../animations/typing.json";
 
-const ENDPOINT = "https://chit-chat-pdou.onrender.com";
+const ENDPOINT = "https://frail-goat-garment.cyclic.app/";
 var socket, selectedChatCompare, lastRoom;
 
 const SingleChat = ({ fetchAgain, setFetchAgain }) => {

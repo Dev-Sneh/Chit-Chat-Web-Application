@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node Server/index.js"
+    "start": "nodemon index.js"
   },
   "author": "Rudra Sikri",
   "license": "ISC",
